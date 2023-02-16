@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaysMind
 - 👀 I’m interested in paintball, gaming, enjoying life.
-- 🌱 I’m currently learning Java, Machine Learning, Blockchain.
-- 💞️ I’m looking to collaborate on N/A.
+- 🌱 I am curently learning why my program won't compile... oh wait I forgot a semi-colen at line 110
+- 💞️ I’m looking to collaborate N/A
 - 📫 Discord: Rayy#5522
 
 <!---
