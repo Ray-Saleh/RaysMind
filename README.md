@@ -1,4 +1,4 @@
-# Hi, I’m @RaysMind
+# Hi, I’m Ray Saleh
 
 👨‍🎓 **Education**  
 - M.S. Computer Science @ Old Dominion University
